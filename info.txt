@@ -17,7 +17,8 @@ extracurriculars to gain technical experience (eventos de divulgacion, ayudante 
 coding proficency and experience
 UNA PAGINA
 NO incluir info personal (foto, edad, estado civil etc NO)
-NO EXAGERAR. Si digo soy experto en C++, me van a preguntar cosas de C++
+NO EXAGERAR. Si digo soy experto en C++, me van a preguntar cosas de C++. No se espera que seamos expertos ya que estamos arrancando
+en la programación
 
 
 Preparing for interviews:
@@ -78,10 +79,47 @@ y que pueda implementar sin leer la documentacion
 
 Las dos pasantias pueden ser dos cosas que no tienen nada que ver con la anterior, ni con temas que quizas yo ya conozca 
 
+Algoritmos y estructuras de datos basicas (materias 1 y 2 correspondiente a cualquier carrera)
+
+Tendremos que hacer codigo, no pseudocodigo
+
+Coding: java, c++, python, javascript, go, methods, classes
+Algorithms: sorting, searching, traversals, big-O, recursion 
+Data structures: lists, stacks, queues, trees, graphs, sets, hashes, maps, heaps
 
 
+PREGUNTAR si el algoritmo a realizar puede recibir una lista vacia por ej. Casos extremos
+El codigo tiene que funcionar. Codigo claro, conciso y entendible en el lenguaje elegido.
+
+Puedo decirle al entrevistador si me repite su pregunta o si no me la repite mas despacio. Algunos tienen un inglers medio broken.
+
+carrera UBA (6 años) = Master 
+carrera Lic. (5 años) = Bachelor 
+Bachelor comun = 4 años 
 
 
+Para el caso de gente en grado que quiera hacer pasantia se le suman 4 entrevistas on site (llevadas a alguna de las sedes en EEUU o EU)
+
+Se puede aplicar desde cualquier año de la carrera. Estar en el ultimo año es complicado porque por ahi empieza el proceso de intership
+y me recibo, y para hacer internship necesito ser alumno regular full time y no recibido
+
+Se pueden tener varias visas al mismo tiempo. NO puedo decirle a google "tengo visa de turismo vengo a trabajar".
+
+Testear el codigo con casos ejemplos. No hace falta que sean test unitarios, con que pueda probar los edge cases me basta.
+
+-----Errores comunes de la entrevista:
+
+Saltar a resolver el problema sin hacer preguntas primero. El entrevistador nos da un caso ambiguo, y nosotros con las preguntas debemos
+ir acotando el problema 
+
+No preguntar nada
+
+A google le interesa el proceso de cómo llegar a la solucion que la solucion en si. Explicar la linea de pensamiento con la cual llegamos
+a donde llegamos.
+
+El codigo no podremos ejecutarlo en la entrevista. Debemos escribir el codigo en el google doc.
+
+Esta bien hacer pseudocodigo para explicar la solucion, pero al final debemos escribir el codigo concreto
 
 
 
