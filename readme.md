@@ -109,19 +109,41 @@ Testear el codigo con casos ejemplos. No hace falta que sean test unitarios, con
 
 -----Errores comunes de la entrevista:
 
-Saltar a resolver el problema sin hacer preguntas primero. El entrevistador nos da un caso ambiguo, y nosotros con las preguntas debemos
-ir acotando el problema 
+No preguntar nada, saltar a resolver el problema sin hacer preguntas primero. El entrevistador nos da un caso ambiguo, y nosotros con las preguntas debemos ir acotando el problema.
 
-No preguntar nada
-
-A google le interesa el proceso de cómo llegar a la solucion que la solucion en si. Explicar la linea de pensamiento con la cual llegamos
-a donde llegamos.
+A google le interesa el proceso de cómo llegar a la solucion que la solucion en si. Explicar la linea de pensamiento con la cual llegamos a donde llegamos.
 
 El codigo no podremos ejecutarlo en la entrevista. Debemos escribir el codigo en el google doc.
 
-Esta bien hacer pseudocodigo para explicar la solucion, pero al final debemos escribir el codigo concreto
+Esta bien hacer pseudocodigo para explicar la solucion, pero al final debemos escribir el codigo concreto.
 
 
+## Topics you should know
+
+Coding: Java, C++, Python, JavaScript, Go, Methods, Classes
+Algorithms: Sorting, Searching, Traversals, Big-O analysis, Recursion
+Data Structures: Lists, Stacks, Queues, Trees, Graphs, Sets, Hashes, Maps, Heaps
+
+## Important considerations
+
+* How did the candidate analyze the problem?
+* Did the candidate approach the problem methodically and logically?
+* Does the candidate have a strong foundation in basic computer science concepts?
+* Did the candidate produce working code? Did the candidate test the code?
+* Is the candidate's code clean and easy to read and maintain?
+* Can the candidate explain their ideas clearly?
+* Is the candidate pleasant to work with?
+
+## Resources
+
+* g.co/buildyourfuture
+* g.co/techdevguide
+* GoogleStudents YouTube live
+* Programming Interviews Exposed (libro)
+* libro
+* libro
+* libro
+* libro
 
 
 
