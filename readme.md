@@ -139,7 +139,7 @@ Data Structures: Lists, Stacks, Queues, Trees, Graphs, Sets, Hashes, Maps, Heaps
 * g.co/buildyourfuture
 * g.co/techdevguide
 * GoogleStudents YouTube live
-* [strong]Programming Interviews Exposed[/strong] (libro)
+* **Programming Interviews Exposed** (libro)
 * libro
 * libro
 * libro
