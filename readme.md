@@ -138,12 +138,22 @@ Data Structures: Lists, Stacks, Queues, Trees, Graphs, Sets, Hashes, Maps, Heaps
 
 * g.co/buildyourfuture
 * g.co/techdevguide
-* GoogleStudents YouTube live
+* GoogleStudents Youtube live
+* Life at Google Youtube
 * **Programming Interviews Exposed** (libro)
-* libro
-* libro
-* libro
-* libro
+* **Cracking the Code Interview** (libro) 
+* Landing your next job, 3rd Ed. (libro) 
+* Elements of programming interviews (libro)
+* The Algorithm Design Manual (libro)
+
+* Top Coder 
+* **leetcode.com**
+* pramp.com
+
+
+
+
+
 
 
 
