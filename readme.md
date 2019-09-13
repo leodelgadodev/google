@@ -97,6 +97,7 @@ carrera UBA (6 años) = Master
 carrera Lic. (5 años) = Bachelor 
 Bachelor comun = 4 años 
 
+Cuatrimestres de ingreso (ej. CBC) cuentan para el tiempo total de la carrera
 
 Para el caso de gente en grado que quiera hacer pasantia se le suman 4 entrevistas on site (llevadas a alguna de las sedes en EEUU o EU)
 
