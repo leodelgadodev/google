@@ -151,6 +151,17 @@ Data Structures: Lists, Stacks, Queues, Trees, Graphs, Sets, Hashes, Maps, Heaps
 * **leetcode.com**
 * pramp.com
 
+### Respuesta mail opinión a mi CV
+
+Remove personal information, like your age, address, etc. We only need your contact information.
+Make it fit on one page (you can remove whitespace)
+"Education" should be the first section, include relevant classes related to algorithms and data structures, and expected graduation date.
+For your work experience, we suggest using this format “Accomplished [X], as measured by [Y], by doing [Z].”
+For example:
+Deployed company’s new and improved in-house account reconciliation system ---> Deployed new in-house account reconciliation system using Python and improved latency by 12% by designing and implementing new framework
+Hope it helps
+Maxi Bustos.
+Marco Vanotti.
 
 
 
